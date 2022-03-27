@@ -2,14 +2,14 @@
 ##### I'm Subramanian Venkataraman (aka) Subu
 🎓 - I'm an InfoSec enthusiast, currently pursuing my Masters in CS at NC State specializing in the Security Track. My Interests lie in Software Development, Network Automation and Systems Security.
 
-💻 - I have over 3.5 years of experience as an Information Security Engineer at Cisco Systems, predominantly working on network automation solutions to increase security posture and compliance. I've also worked on Secure Access reviews for Labs, Data centers, Firewalls and Partner network as part of everyday operations.
+💻 - I have over 3.5 years of experience as an Information Security Engineer at Cisco, where my work involved securing Cisco's Labs, Firewalls and Data Centers by reviewing Access Control requests along with developing Automation solutions to increase Policy Compliance for Lab Environments. 
 
 
 Technical Skills
 * Programming Languages: Python, C++, Go, JavaScript, SQL, Ruby
 * Frameworks: Django, Ruby on Rails
 * Databases: MySQL, MongoDB, PostgreSQL
-* Tools: Git, Docker, Kubernetes, Jenkins, Jira, Postman, Metasploit, Wireshark, NMap, Splunk, Cisco Packet Tracer
+* Tools: Git, Docker, Kubernetes, Jenkins, Jira, Postman, Metasploit, Wireshark, NMap, Splunk, Cisco Packet Tracer, Gitleaks, SonarQube, Fortify, ZAP, ThreatDragon
 
 
 <!--
