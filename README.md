@@ -6,9 +6,9 @@
 
 
 Technical Skills
-* Programming Languages: Python, C++, Go, JavaScript, SQL, Ruby
-* Frameworks: Django, Ruby on Rails
-* Databases: MySQL, MongoDB, PostgreSQL
+* Programming Languages: Python, C/C++, Go, JavaScript, SQL, HTML, CSS
+* Frameworks: Django
+* Databases: MySQL, MongoDB, PostgreSQL, ClickhouseDB, DynamoDB
 * Tools: Git, Docker, Kubernetes, Jenkins, Jira, Postman, Metasploit, Wireshark, NMap, Splunk, Cisco Packet Tracer, Gitleaks, SonarQube, Fortify, ZAP, ThreatDragon
 
 
