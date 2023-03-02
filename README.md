@@ -4,7 +4,7 @@
 
 💻 - Recently I completed my summer Internship at VMware as Member of Technical Staff Intern, where I worked on Network Flow Anomaly detection in [Theia](https://github.com/antrea-io/theia). Before starting Grad School, I worked for 3.5 years as an Information Security Engineer at Cisco, where my work involved developing Automation solutions to increase Policy Compliance for Lab Environments and securing Cisco's Labs, Firewalls and Data Centers by reviewing Access Control requests.
 
-🎯 - I'm looking for full time opportunities in the Software Security Domain starting May 2023. You can find my resume [here](https://drive.google.com/file/d/1xRJjPDMRlKKll47SBHzAHSkAkhAnRaVO/view?usp=sharing).
+🎯 - I'm looking for full time opportunities in the Software Security Domain starting May 2023. You can find my resume [here](https://drive.google.com/file/d/1bUaaROhqpxAFtsXj7C2opA3_FG58uCF3/view?usp=sharing).
 If you're hiring and my skillset aligns with your need, let's connect over [email](mailto:svenka25@ncsu.edu) or via my [LinkedIn](https://www.linkedin.com/in/vsmanian12/)
 
 <p align="center">
