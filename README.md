@@ -1,15 +1,9 @@
 ### Hi there 👋
 ##### I'm Subramanian Venkataraman (aka) Subu
-🎓 - I'm an Security enthusiast, currently pursuing my Masters in CS at NC State. My Interests lie in Backend Development, Network Automation, Pentesting and Systems Security.
+💻 - I'm a Cybersecurity enthusiast, currently working as a Sr.CyberSecurity Engineer at Fidelity Investments in the Vendor Cybersecurity Space. My Interests lie in Backend Development, Automation, and Systems Security.
 
-💻 - Recently I completed my summer Internship at VMware as Member of Technical Staff Intern, where I worked on Network Flow Anomaly detection in [Theia](https://github.com/antrea-io/theia). Before starting Grad School, I worked for 3.5 years as an Information Security Engineer at Cisco, where my work involved developing Automation solutions to increase Policy Compliance for Lab Environments and securing Cisco's Labs, Firewalls and Data Centers by reviewing Access Control requests.
-
-🎯 - I'm looking for full time opportunities in the Software Security Domain starting May 2023. You can find my resume [here](https://drive.google.com/file/d/1bUaaROhqpxAFtsXj7C2opA3_FG58uCF3/view?usp=sharing).
-If you're hiring and my skillset aligns with your need, let's connect over [email](mailto:svenka25@ncsu.edu) or via my [LinkedIn](https://www.linkedin.com/in/vsmanian12/)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" />
-</p>
+🎯 - I'm always looking to collaborate on solving interesting problems in the security space. You can find my resume [here](https://drive.google.com/file/d/1bUaaROhqpxAFtsXj7C2opA3_FG58uCF3/view?usp=sharing).
+If you'd like to say Hi, drop an [email](mailto:svenka25@ncsu.edu) or message me at my [LinkedIn](https://www.linkedin.com/in/vsmanian12/)
 
 
 Skills
@@ -21,6 +15,7 @@ Skills
 * Other: AWS Lambda, EC2, Elastic Beanstalk, SQS, Git, Jira, Postman, VSCode, PyCharm
 
 <!--
+💻 - Recently I completed my summer Internship at VMware as Member of Technical Staff Intern, where I worked on Network Flow Anomaly detection in [Theia](https://github.com/antrea-io/theia). Before starting Grad School, I worked for 3.5 years as an Information Security Engineer at Cisco, where my work involved developing Automation solutions to increase Policy Compliance for Lab Environments and securing Cisco's Labs, Firewalls and Data Centers by reviewing Access Control requests.
 **wizard-31/wizard-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
