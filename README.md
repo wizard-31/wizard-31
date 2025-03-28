@@ -1,9 +1,9 @@
 ### Hi there 👋
 ##### I'm Subramanian Venkataraman (aka) Subu
-💻 - I'm a Cybersecurity enthusiast, currently working as a Sr.CyberSecurity Engineer at Fidelity Investments in the Vendor Cybersecurity Space. My Interests lie in Backend Development, Automation, and Systems Security.
+💻 - I'm a Cybersecurity enthusiast, currently working as a Sr.CyberSecurity Engineer at Fidelity Investments in the SaaS Security Space. My Interests lie in Backend Development, Automation, and Systems Security.
 
 🎯 - I'm always looking to collaborate on solving interesting problems in the security space. You can find my resume [here](https://drive.google.com/file/d/1bUaaROhqpxAFtsXj7C2opA3_FG58uCF3/view?usp=sharing).
-If you'd like to say Hi, drop an [email](mailto:svenka25@ncsu.edu) or message me at my [LinkedIn](https://www.linkedin.com/in/vsmanian12/)
+If you'd like to say Hi, drop an [email](mailto:subramanianvenkat1997@gmail.com) or message me at my [LinkedIn](https://www.linkedin.com/in/vsmanian12/)
 
 
 Skills
